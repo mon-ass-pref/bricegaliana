@@ -19,7 +19,7 @@ if (dialog) {
     1: ['Avant rénovation', 'Dépose de la baignoire', 'Préparation de la douche', 'Douche carrelée', 'Meuble vasque', 'Salle de bains rénovée', 'Vue d’ensemble après rénovation'],
     2: ['Cuisine en travaux', 'Ouverture des cloisons', 'Préparation des cloisons', 'Détail du chantier', 'Détail du chantier', 'Préparation de l’espace cuisine', 'Aménagement en cours', 'Pose de la cuisine', 'Cuisine aménagée', 'Vue d’ensemble de la cuisine', 'Meubles et évier', 'Cuisine terminée']
   };
-  function show() { image.src = photos[index].src; image.alt = photos[index].alt; counter.textContent = `${index + 1} / ${photos.length} — ${photos[index].alt}`; }
+  function show() { image.src = photos[index].src; image.alt = photos[index].alt; counter.textContent = photos[index].alt; }
   document.querySelectorAll('.gallery-open').forEach(button => button.addEventListener('click', () => {
     opener = button; const id = Number(button.dataset.gallery);
     photos = captions[id].map((alt, i) => ({src: `assets/chantier-${id}/p${i + 1}.jpg`, alt})); index = 0;

@@ -16,7 +16,7 @@ En l’absence de lien, le bouton reste désactivé avec une mention explicite d
 
 ## Direction artistique
 
-Bordeaux `#591c1b`, beige doré `#b8a075`, ivoire `#f8f5ef`, cadres fins. Le logo GB est extrait de la carte de visite fournie, sans redessin. Polices Cormorant Garamond et DM Sans (Google Fonts, avec polices de secours locales).
+Bordeaux `#591c1b`, beige doré `#b8a075`, ivoire `#f8f5ef`, cadres fins. Le logo GB est extrait de la carte de visite fournie, sans redessin. Polices Cormorant Garamond, DM Sans et Allura (signature) (Google Fonts, avec polices de secours locales).
 
 ## Photos
 
@@ -31,3 +31,9 @@ Ouvrir `index.html` dans un navigateur ou servir ce dossier avec un serveur HTTP
 Dans le dépôt : Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
 
 La maquette contient `noindex,nofollow`. Préparer les mentions légales et la politique de confidentialité avec les informations validées de l’entreprise avant le lancement du site définitif. Les avis réels seront ajoutés après leur collecte.
+
+## Contenus en attente
+
+- Nouvelle photo de Brice au travail à joindre pour la rubrique À propos.
+- Adresses des profils LinkedIn et Instagram : icônes présentées sans lien inventé.
+- `contact@galiana.fr` est affichée comme demandé ; le domaine et la boîte mail restent à configurer séparément.
