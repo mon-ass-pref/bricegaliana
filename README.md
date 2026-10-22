@@ -34,6 +34,12 @@ La maquette contient `noindex,nofollow`. Préparer les mentions légales et la p
 
 ## Contenus en attente
 
-- Nouvelle photo de Brice au travail à joindre pour la rubrique À propos.
+- Photo de Brice au travail intégrée dans la rubrique À propos.
 - Adresses des profils LinkedIn et Instagram : icônes présentées sans lien inventé.
 - `contact@galiana.fr` est affichée comme demandé ; le domaine et la boîte mail restent à configurer séparément.
+
+## Pied de page et confidentialité
+
+SIRET : 978 635 589 00010, recoupé avec la carte de visite et Pappers (https://www.pappers.fr/entreprise/galiana-brice-978635589). Les boutons Mentions légales, Confidentialité et Conditions générales ouvrent des emplacements explicitement à compléter. Aucun texte contractuel complet n’est présenté comme validé.
+
+Le pop-up Cookies informe de l’absence de traceurs facultatifs activés par cette maquette. Il conserve uniquement sa fermeture dans le stockage local pendant six mois, et peut être réaffiché depuis le pied de page. Aucune option d’acceptation fictive d’outils non installés n’a été ajoutée.
